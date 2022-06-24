@@ -2,3 +2,28 @@ echo " $ "
 echo "$"
 echo $
 echo $=lol
+echo $USER$USERHOME
+echo $USER$HOME
+echo $USER=lol
+echo =USER$
+echo $USER$
+echo $USER'r'
+ECHO $USER
+Echo
+eCho
+ecHo
+EcHo
+echo -n
+echo -l -n
+echo -n -l 0l
+echo ""
+echo "'"
+echo '"'
+echo --
+echo ------
+echo -n -n -n -l -n -n 
+echo -n -n -n hello
+echo -n -l -n hello 
+echo -n -l -n hello -n
+echo "'USER?""''" ' ' "" '' ' ' " " " ''''"""'""' "''''''''''"''"'"
+echo "'$USER'"
