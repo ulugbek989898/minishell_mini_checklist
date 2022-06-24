@@ -1,0 +1,11 @@
+env
+ENV
+Env
+ENv
+
+
+---no options no arguments---
+env -i
+env $USER
+env USER=lol
+env test=t
