@@ -21,3 +21,5 @@ export $$=2435
 export USER=lala
 export lala=me
 export "TEST"="echo sasori | echo lol"
+export TEST=lala=sasori=bo
+export test==lala=lol
