@@ -1,0 +1,21 @@
+export USER
+export SHLVL
+export test
+export test=ll
+export test="hello"
+export "test"=hello
+export $USER=hello
+export hello=$USER
+export hello=$USER$HOME
+export TEST="$USER $NOTHING -"
+export "TEST=hello"
+export TESt==========hey
+export test=$TESt
+export TEST="TEST=lol"
+export $TEST
+export test=$
+export $test
+export 1test
+export $?=0
+export $$=2435
+
