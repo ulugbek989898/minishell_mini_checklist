@@ -18,4 +18,6 @@ export $test
 export 1test
 export $?=0
 export $$=2435
-
+export USER=lala
+export lala=me
+export "TEST"="echo sasori | echo lol"
