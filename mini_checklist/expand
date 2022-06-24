@@ -1,0 +1,31 @@
+$USER
+$USER''
+$USER""
+"$USER"
+'$USER'
+"'$USER'"
+'"$USER"'
+""$USER
+"'"$USER
+$USER"'"
+$USER'r'
+$USER$
+$USER = rr
+$USER=lol
+$$
+$
+$$$$
+$$$
+"$USER"'$USER'"$"$"$ "
+'$USER'''$"$USER"'$ '" $"$$ $$$ $USER '$USER' "$USER"r $USER'r'
+"$USER"r
+r'$USER'
+$"$"$$"$"'$'"$?""$USER$HOME""$USER"R"
+
+----extra cases to handle---
+$"$"
+$"USER"
+$"$USER"
+$'$USER'
+$'$'
+
