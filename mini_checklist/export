@@ -23,3 +23,9 @@ export lala=me
 export "TEST"="echo sasori | echo lol"
 export TEST=lala=sasori=bo
 export test==lala=lol
+export _test
+export test1
+export te1st
+export
+export --
+export te@st
