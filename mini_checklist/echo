@@ -27,3 +27,6 @@ echo -n -l -n hello
 echo -n -l -n hello -n
 echo "'USER?""''" ' ' "" '' ' ' " " " ''''"""'""' "''''''''''"''"'"
 echo "'$USER'"
+echo -
+echo --n
+echo -nn
