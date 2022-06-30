@@ -12,3 +12,14 @@ echo 'abo' ' '>>bb
 echo "'abo' ' '">>bb
 echo hello k>>hh
 echo hello k">>"hh
+echo hello k > '>'hh
+cat >hh
+cat '>hh'
+echo hello k>>''hh
+echo hello k''>>hh
+echo hello k''>>''hh
+echo hello "k''">>''hh
+echo hello k''">>"''hh
+echo hello k"''">>"''"hh
+cat ''hh
+cat "''hh"
