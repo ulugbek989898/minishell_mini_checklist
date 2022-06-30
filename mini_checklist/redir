@@ -1,0 +1,14 @@
+echo hello lala <<< file blaaaa
+echo hello lala <> file blabla
+echo hello lala >>> file poop
+cat <<< file
+cat '<' file
+cat '<'file
+cat '<file'
+cat < 'file'
+echo lala '>' bb
+echo abo >>'bb'
+echo 'abo' ' '>>bb
+echo "'abo' ' '">>bb
+echo hello k>>hh
+echo hello k">>"hh
