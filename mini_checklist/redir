@@ -23,3 +23,10 @@ echo hello k''">>"''hh
 echo hello k"''">>"''"hh
 cat ''hh
 cat "''hh"
+echo hello k>>'>hh'
+echo hello 'k>'>>hh
+echo hello 'k>'>>hh "'>>'" hh
+echo hello 'k>'>>hh >> hhh
+echo hello 'k>'>>hh '>>' hhh
+echo hello 'k>'>>hh >> hhh
+echo hello 'k>'>>hh '>>' hhh > file
