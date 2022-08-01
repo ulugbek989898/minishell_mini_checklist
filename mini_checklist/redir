@@ -30,3 +30,9 @@ echo hello 'k>'>>hh >> hhh
 echo hello 'k>'>>hh '>>' hhh
 echo hello 'k>'>>hh >> hhh
 echo hello 'k>'>>hh '>>' hhh > file
+
+execute:
+ echo hi > file | sleep 2 | ls > file
+ ls > file | sleep 2 | echo hi > file
+ ls > file | echo hi > file
+ echo hi > file | ls > file
